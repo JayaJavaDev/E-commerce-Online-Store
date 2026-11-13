@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "White Sports Shoes",
+      "price": 2499,
+      "category": "Footwear",
+      "image": "https://images.pexels.com/photos/21419626/pexels-photo-21419626.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.7, "count": 154 }
+    },
+    {
+      "id": 2,
+      "title": "Shopping Bags",
+      "price": 1899,
+      "category": "Fashion",
+      "image": "https://images.pexels.com/photos/5632325/pexels-photo-5632325.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.5, "count": 89 }
+    },
+    {
+      "id": 3,
+      "title": "Wireless Headphones",
+      "price": 3299,
+      "category": "Electronics",
+      "image": "https://images.pexels.com/photos/8001062/pexels-photo-8001062.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.6, "count": 276 }
+    },
+    {
+      "id": 4,
+      "title": "Silver Wrist Watch",
+      "price": 2799,
+      "category": "Accessories",
+      "image": "https://images.pexels.com/photos/33496220/pexels-photo-33496220.jpeg",
+      "stock": 600,
+      "status": false,
+      "rating": { "rate": 4.4, "count": 47 }
+    },
+    {
+      "id": 5,
+      "title": "Modern Black Sunglasses",
+      "price": 1499,
+      "category": "Accessories",
+      "image": "https://images.pexels.com/photos/5766156/pexels-photo-5766156.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.8, "count": 632 }
+    },
+    {
+      "id": 6,
+      "title": "White Graphic T-Shirts",
+      "price": 999,
+      "category": "Clothing",
+      "image": "https://images.pexels.com/photos/32963962/pexels-photo-32963962.jpeg",
+      "stock": 700,
+      "status": false,
+      "rating": { "rate": 4.3, "count": 118 }
+    },
+    {
+      "id": 7,
+      "title": "Premium Ceramic Coffee Mug",
+      "price": 599,
+      "category": "Home & Living",
+      "image": "https://images.pexels.com/photos/9050563/pexels-photo-9050563.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.8, "count": 120 }
+    },
+    {
+      "id": 8,
+      "title": "Smart Fitness Tracker",
+      "price": 1999,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?w=600",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.2, "count": 39 }
+    },
+    {
+      "id": 9,
+      "title": "Study Desk Lamp",
+      "price": 1599,
+      "category": "Home & Living",
+      "image": "https://images.pexels.com/photos/19354373/pexels-photo-19354373.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.6, "count": 321 }
+    },
+    {
+      "id": 10,
+      "title": "Stainless Steel Water Bottle",
+      "price": 799,
+      "category": "Lifestyle",
+      "image": "https://images.pexels.com/photos/25382222/pexels-photo-25382222.jpeg",
+      "stock": 300,
+      "status": false,
+      "rating": { "rate": 4.3, "count": 142 }
+    },
+    {
+      "id": 11,
+      "title": "Premium Leather Backpack",
+      "price": 2499,
+      "category": "Bags",
+      "image": "https://images.pexels.com/photos/15246346/pexels-photo-15246346.jpeg",
+      "stock": 500,
+      "status": false,
+      "rating": { "rate": 4.8, "count": 517 }
+    },
+    {
+      "id": 12,
+      "title": "Portable Bluetooth Speaker",
+      "price": 1899,
+      "category": "Electronics",
+      "image": "https://images.pexels.com/photos/31748137/pexels-photo-31748137.jpeg",
+      "stock": 200,
+      "status": false,
+      "rating": { "rate": 4.5, "count": 74 }
+    }
+  ]
+}
