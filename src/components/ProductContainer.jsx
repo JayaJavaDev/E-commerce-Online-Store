@@ -1,4 +1,4 @@
-import ProductCard from "./Productcard";
+import ProductCard from './ProductCard.jsx';
 
 function ProductContainer({ products, addToCart }) {
   return (
